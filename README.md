@@ -4,6 +4,7 @@ Just manage your things digitally, as individual as each thing is itself!
 
 Website: [https://jisco.me/lot](https://jisco.me/lot)
 
+## Light and Dark Theme
 ![themes](https://user-images.githubusercontent.com/770001/143676896-e73e9968-c4fa-4cbe-9c48-2f0da197f900.png)
 
 ## Tutorial Video
