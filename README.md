@@ -10,5 +10,10 @@ Website: [https://jisco.me/lot](https://jisco.me/lot)
 ## Tutorial Video
 https://user-images.githubusercontent.com/770001/143676906-5f2292e9-85c0-4550-a7a8-f90f49349a86.mp4
 
+### <a href="https://github.com/Jisco/LotOfThings/blob/main/v1.1.0.md">Version 1.1.0</a>
+* Automatic focus or selection
+* confirm dialogs via enter-key
+* add multiple shortcuts
+
 ### <a href="https://github.com/Jisco/LotOfThings/blob/main/v1.0.0.md">Version 1.0.0</a>
 * First Release
